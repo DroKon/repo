@@ -1,0 +1,3 @@
+﻿  Pattern AbstrFactory.cpp
+D:\Repos\Pattern AbstrFactory\Pattern AbstrFactory\Pattern AbstrFactory.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Pattern AbstrFactory.vcxproj -> D:\Repos\Pattern AbstrFactory\x64\Debug\Pattern AbstrFactory.exe
